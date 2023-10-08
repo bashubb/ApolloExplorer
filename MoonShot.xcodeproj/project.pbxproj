@@ -17,6 +17,7 @@
 		B57FBE862AD1C60D00D5F38F /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE852AD1C60D00D5F38F /* Bundle-Decodable.swift */; };
 		B57FBE882AD2A12B00D5F38F /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE872AD2A12B00D5F38F /* Mission.swift */; };
 		B57FBE8A2AD2AB9E00D5F38F /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE892AD2AB9E00D5F38F /* Color-Theme.swift */; };
+		B57FBE8C2AD2B3C000D5F38F /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE8B2AD2B3C000D5F38F /* MissionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		B57FBE852AD1C60D00D5F38F /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		B57FBE872AD2A12B00D5F38F /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		B57FBE892AD2AB9E00D5F38F /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
+		B57FBE8B2AD2B3C000D5F38F /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 			children = (
 				B57FBE712AD1C38300D5F38F /* MoonShotApp.swift */,
 				B57FBE732AD1C38300D5F38F /* ContentView.swift */,
+				B57FBE8B2AD2B3C000D5F38F /* MissionView.swift */,
 				B57FBE892AD2AB9E00D5F38F /* Color-Theme.swift */,
 				B57FBE872AD2A12B00D5F38F /* Mission.swift */,
 				B57FBE832AD1C52B00D5F38F /* Astronaut.swift */,
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B57FBE8C2AD2B3C000D5F38F /* MissionView.swift in Sources */,
 				B57FBE842AD1C52B00D5F38F /* Astronaut.swift in Sources */,
 				B57FBE8A2AD2AB9E00D5F38F /* Color-Theme.swift in Sources */,
 				B57FBE742AD1C38300D5F38F /* ContentView.swift in Sources */,
@@ -304,6 +308,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -333,6 +338,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
