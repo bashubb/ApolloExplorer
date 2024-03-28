@@ -9,9 +9,9 @@ import Foundation
 
 
 
-struct Mission: Codable, Identifiable {
+struct Mission: Codable, Hashable, Identifiable {
     
-    struct CrewRole: Codable {
+    struct CrewRole: Codable, Hashable {
         let name: String
         let role: String
     }

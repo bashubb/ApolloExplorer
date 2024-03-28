@@ -13,9 +13,6 @@ struct ContentView: View {
     let astronauts: [String: Astronaut] = Bundle.main.decode("astronauts.json")
     let missions: [Mission] = Bundle.main.decode("missions.json")
     
-    
-    
-    
     var body: some View {
         NavigationStack {
             ScrollView {
@@ -40,7 +37,10 @@ struct ContentView: View {
                     .foregroundStyle(Color.white)
                     
                 }
-        }
+            }
+            .navigationDestination(for: Mission.self) { mission in
+                MissionView(mission: mission, astronauts: astronauts)
+            }
         }
     }
 }
@@ -63,9 +63,7 @@ struct GridView: View {
     var body: some View {
         LazyVGrid(columns: columns) {
             ForEach(missions) {mission in
-                NavigationLink {
-                    MissionView(mission: mission, astronauts: astronauts)
-                } label: {
+                NavigationLink(value: mission) {
                     VStack {
                         Image(mission.image)
                             .resizable()
@@ -109,9 +107,7 @@ struct ListView: View {
     var body: some View {
         
         ForEach(missions) {mission in
-            NavigationLink {
-                MissionView(mission: mission, astronauts: astronauts)
-            } label: {
+            NavigationLink(value: mission) {
                 HStack {
                     Image(mission.image)
                         .resizable()
