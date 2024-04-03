@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B57FBE722AD1C38300D5F38F /* MoonShotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE712AD1C38300D5F38F /* MoonShotApp.swift */; };
+		B57FBE722AD1C38300D5F38F /* ApolloExplorer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE712AD1C38300D5F38F /* ApolloExplorer.swift */; };
 		B57FBE742AD1C38300D5F38F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE732AD1C38300D5F38F /* ContentView.swift */; };
 		B57FBE762AD1C38500D5F38F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B57FBE752AD1C38500D5F38F /* Assets.xcassets */; };
 		B57FBE792AD1C38500D5F38F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B57FBE782AD1C38500D5F38F /* Preview Assets.xcassets */; };
@@ -23,7 +23,7 @@
 
 /* Begin PBXFileReference section */
 		B57FBE6E2AD1C38300D5F38F /* MoonShot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoonShot.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B57FBE712AD1C38300D5F38F /* MoonShotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonShotApp.swift; sourceTree = "<group>"; };
+		B57FBE712AD1C38300D5F38F /* ApolloExplorer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApolloExplorer.swift; sourceTree = "<group>"; };
 		B57FBE732AD1C38300D5F38F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B57FBE752AD1C38500D5F38F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B57FBE782AD1C38500D5F38F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		B57FBE702AD1C38300D5F38F /* MoonShot */ = {
 			isa = PBXGroup;
 			children = (
-				B57FBE712AD1C38300D5F38F /* MoonShotApp.swift */,
+				B57FBE712AD1C38300D5F38F /* ApolloExplorer.swift */,
 				B57FBE732AD1C38300D5F38F /* ContentView.swift */,
 				B57FBE8B2AD2B3C000D5F38F /* MissionView.swift */,
 				B57FBE8D2AD2CA4A00D5F38F /* AstronautView.swift */,
@@ -168,7 +168,7 @@
 				B57FBE8E2AD2CA4A00D5F38F /* AstronautView.swift in Sources */,
 				B57FBE8A2AD2AB9E00D5F38F /* Color-Theme.swift in Sources */,
 				B57FBE742AD1C38300D5F38F /* ContentView.swift in Sources */,
-				B57FBE722AD1C38300D5F38F /* MoonShotApp.swift in Sources */,
+				B57FBE722AD1C38300D5F38F /* ApolloExplorer.swift in Sources */,
 				B57FBE882AD2A12B00D5F38F /* Mission.swift in Sources */,
 				B57FBE862AD1C60D00D5F38F /* Bundle-Decodable.swift in Sources */,
 			);

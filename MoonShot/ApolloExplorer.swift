@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct MoonShotApp: App {
+struct ApolloExplorer: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

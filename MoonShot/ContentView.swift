@@ -23,7 +23,7 @@ struct ContentView: View {
                     ListView(missions: missions, astronauts: astronauts)
                 }
             }
-            .navigationTitle("Moonshot")
+            .navigationTitle("ApolloExplorer")
             .background(.darkBackground)
             .preferredColorScheme(.dark)
             .toolbar {
