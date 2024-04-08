@@ -1,0 +1,348 @@
+[
+    {
+        "question": "Who was the first human to orbit the Earth?",
+        "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
+        "answer": "Yuri Gagarin"
+    },
+    {
+        "question": "What year did the Apollo 11 mission land the first humans on the Moon?",
+        "options": ["1967", "1969", "1972", "1975"],
+        "answer": "1969"
+    },
+    {
+        "question": "Which space agency launched the Hubble Space Telescope into orbit?",
+        "options": ["NASA", "ESA", "Roscosmos", "CNSA"],
+        "answer": "NASA"
+    },
+    {
+        "question": "What does NASA stand for?",
+        "options": ["National Aeronautics and Space Agency", "National Aeronautics and Space Administration", "National Aerospace and Space Association", "National Aeronautics and Scientific Agency"],
+        "answer": "National Aeronautics and Space Administration"
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who was the first American woman in space?",
+        "options": ["Sally Ride", "Valentina Tereshkova", "Mae Jemison", "Christa McAuliffe"],
+        "answer": "Sally Ride"
+    },
+    {
+        "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+        "options": ["Sputnik 1", "Vostok 1", "Vanguard 1", "Explorer 1"],
+        "answer": "Sputnik 1"
+    },
+    {
+        "question": "Which spacecraft holds the record for the farthest distance traveled from Earth by humans?",
+        "options": ["Apollo 11", "Voyager 1", "Vostok 1", "SpaceX Dragon"],
+        "answer": "Voyager 1"
+    },
+    {
+        "question": "What is the name of the first module of the International Space Station (ISS) launched into orbit?",
+        "options": ["Unity", "Zarya", "Destiny", "Tranquility"],
+        "answer": "Zarya"
+    },
+    {
+        "question": "Which space probe was the first to land on Mars?",
+        "options": ["Viking 1", "Curiosity", "Spirit", "Opportunity"],
+        "answer": "Viking 1"
+    },
+    {
+        "question": "What is the name of the galaxy that contains our solar system?",
+        "options": ["Andromeda", "Milky Way", "Triangulum", "Sombrero"],
+        "answer": "Milky Way"
+    },
+    {
+        "question": "Who was the first woman to perform a spacewalk?",
+        "options": ["Svetlana Savitskaya", "Valentina Tereshkova", "Sally Ride", "Mae Jemison"],
+        "answer": "Svetlana Savitskaya"
+    },
+    {
+        "question": "Which planet is known for its beautiful rings?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the name of the first artificial satellite to orbit the Moon?",
+        "options": ["Luna 1", "Ranger 1", "Luna 2", "Apollo 11"],
+        "answer": "Luna 2"
+    },
+    {
+        "question": "Who was the first human to set foot on the Moon?",
+        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Alan Shepard"],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "Which spacecraft was the first to successfully land on Venus?",
+        "options": ["Venera 7", "Mariner 10", "Magellan", "Venus Express"],
+        "answer": "Venera 7"
+    },
+    {
+        "question": "What is the largest moon in the solar system?",
+        "options": ["Titan", "Ganymede", "Callisto", "Europa"],
+        "answer": "Ganymede"
+    },
+    {
+        "question": "Which space agency successfully landed the Philae probe on a comet in 2014?",
+        "options": ["NASA", "ESA", "Roscosmos", "CNSA"],
+        "answer": "ESA"
+    },
+    {
+        "question": "What is the name of the space telescope launched by the European Space Agency (ESA) in 2009?",
+        "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Spitzer Space Telescope", "Herschel Space Observatory"],
+        "answer": "Herschel Space Observatory"
+    },
+    {
+        "question": "Which planet is known as the 'Giant of the Solar System'?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What was the name of the first American space station, launched in 1973?",
+        "options": ["Skylab", "Mir", "Salyut 1", "Tiagong"],
+        "answer": "Skylab"
+    },
+    {
+        "question": "Who was the first astronaut to fly in space twice?",
+        "options": ["John Glenn", "Yuri Gagarin", "Alan Shepard", "Gus Grissom"],
+        "answer": "Gus Grissom"
+    },
+    {
+        "question": "Which planet is often called Earth's 'sister planet'?",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the name of the largest volcano in the solar system, located on Mars?",
+        "options": ["Mount Everest", "Mauna Kea", "Olympus Mons", "Mount Kilimanjaro"],
+        "answer": "Olympus Mons"
+    },
+    {
+        "question": "Who was the first American to orbit the Earth?",
+        "options": ["John Glenn", "Alan Shepard", "Gus Grissom", "Neil Armstrong"],
+        "answer": "John Glenn"
+    },
+    {
+        "question": "Which spacecraft made the first successful landing on the Moon?",
+        "options": ["Luna 2", "Apollo 11", "Surveyor 1", "Viking 1"],
+        "answer": "Luna 2"
+    },
+    {
+        "question": "What is the name of the largest moon of Saturn?",
+        "options": ["Titan", "Enceladus", "Mimas", "Dione"],
+        "answer": "Titan"
+    },
+    {
+        "question": "Which planet is known for its bright, icy rings?",
+        "options": ["Jupiter", "Neptune", "Saturn", "Uranus"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the name of the first space shuttle to orbit the Earth?",
+        "options": ["Discovery", "Atlantis", "Columbia", "Challenger"],
+        "answer": "Columbia"
+    },
+    {
+        "question": "Who was the first woman to fly into space twice?",
+        "options": ["Valentina Tereshkova", "Svetlana Savitskaya", "Sally Ride", "Mae Jemison"],
+        "answer": "Svetlana Savitskaya"
+    },
+    {
+        "question": "What was the name of the first space station launched into orbit by the Soviet Union in 1971?",
+        "options": ["Skylab", "Mir", "Salyut 1", "Tiangong"],
+        "answer": "Salyut 1"
+    },
+    {
+        "question": "Which spacecraft was the first to orbit Jupiter?",
+        "options": ["Galileo", "Pioneer 10", "Voyager 1", "Juno"],
+        "answer": "Pioneer 10"
+    },
+    {
+        "question": "What is the name of the most famous comet, which returns to the inner solar system approximately every 76 years?",
+        "options": ["Halley's Comet", "Hale-Bopp", "Comet Hyakutake", "Comet Shoemaker-Levy 9"],
+        "answer": "Halley's Comet"
+    },
+    {
+        "question": "Who was the first American woman to perform a spacewalk?",
+        "options": ["Svetlana Savitskaya", "Valentina Tereshkova", "Sally Ride", "Mae Jemison"],
+        "answer": "Sally Ride"
+    },
+    {
+        "question": "What is the name of the mission that landed the Curiosity rover on Mars in 2012?",
+        "options": ["Pathfinder", "Viking", "Spirit", "Mars Science Laboratory"],
+        "answer": "Mars Science Laboratory"
+    },
+    {
+        "question": "Which planet is known for its prominent ring system and has a hexagonal cloud pattern on its north pole?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the name of the first artificial satellite launched by the United States?",
+        "options": ["Explorer 1", "Vanguard 1", "Sputnik 1", "Telstar 1"],
+        "answer": "Explorer 1"
+    },
+    {
+        "question": "Who was the first human to walk in space?",
+        "options": ["Alexei Leonov", "Yuri Gagarin", "Buzz Aldrin", "Neil Armstrong"],
+        "answer": "Alexei Leonov"
+    },
+    {
+        "question": "What is the name of the first space telescope launched by NASA in 1990?",
+        "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Spitzer Space Telescope", "Chandra X-ray Observatory"],
+        "answer": "Hubble Space Telescope"
+    },
+    {
+        "question": "Which spacecraft made the first successful soft landing on Mars?",
+        "options": ["Mars 3", "Viking 1", "Pathfinder", "Opportunity"],
+        "answer": "Mars 3"
+    },
+    {
+        "question": "Who was the first human to spend over a year in space?",
+        "options": ["Yuri Gagarin", "Valeri Polyakov", "Scott Kelly", "Peggy Whitson"],
+        "answer": "Valeri Polyakov"
+    },
+    {
+        "question": "What is the name of the largest moon of Jupiter?",
+        "options": ["Titan", "Ganymede", "Callisto", "Europa"],
+        "answer": "Ganymede"
+    },
+    {
+        "question": "Which planet is often called the 'Red Planet'?",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the name of the spacecraft that carried the first humans to land on the Moon in 1969?",
+        "options": ["Apollo 11", "Gemini 8", "Mercury-Redstone 3", "Vostok 1"],
+        "answer": "Apollo 11"
+    },
+    {
+        "question": "Which planet is known for its prominent rings?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "Who was the first person to step onto the surface of the Moon?",
+        "options": ["Neil Armstrong", "Buzz Aldrin", "Alan Shepard", "Yuri Gagarin"],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "What is the name of the first artificial satellite launched into Earth's orbit?",
+        "options": ["Sputnik 1", "Explorer 1", "Vanguard 1", "Luna 1"],
+        "answer": "Sputnik 1"
+    },
+    {
+        "question": "Who was the first woman to fly in space?",
+        "options": ["Valentina Tereshkova", "Sally Ride", "Mae Jemison", "Christa McAuliffe"],
+        "answer": "Valentina Tereshkova"
+    },
+    {
+        "question": "What is the name of the spacecraft that made the first successful landing on the Moon in 1966?",
+        "options": ["Apollo 11", "Surveyor 1", "Luna 2", "Viking 1"],
+        "answer": "Surveyor 1"
+    },
+    {
+        "question": "Which planet is known as the 'Blue Planet'?",
+        "options": ["Mars", "Earth", "Neptune", "Uranus"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the name of the most famous comet, which last appeared in the inner solar system in 1986?",
+        "options": ["Halley's Comet", "Hale-Bopp", "Comet Hyakutake", "Comet Shoemaker-Levy 9"],
+        "answer": "Halley's Comet"
+    },
+    {
+        "question": "Who was the first American to orbit the Earth?",
+        "options": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Alan Shepard"],
+        "answer": "John Glenn"
+    },
+    {
+        "question": "What is the name of the first manned mission to land on the Moon?",
+        "options": ["Apollo 11", "Gemini 8", "Mercury-Redstone 3", "Vostok 1"],
+        "answer": "Apollo 11"
+    },
+    {
+        "question": "Which planet is known as the 'Evening Star'?",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the name of the mission that successfully landed the first humans on the Moon?",
+        "options": ["Apollo 11", "Gemini 8", "Mercury-Redstone 3", "Vostok 1"],
+        "answer": "Apollo 11"
+    },
+    {
+        "question": "Who was the first woman to travel to space twice?",
+        "options": ["Svetlana Savitskaya", "Valentina Tereshkova", "Sally Ride", "Mae Jemison"],
+        "answer": "Svetlana Savitskaya"
+    },
+    {
+        "question": "What is the name of the most distant spacecraft from Earth?",
+        "options": ["Voyager 1", "Pioneer 10", "New Horizons", "Voyager 2"],
+        "answer": "Voyager 1"
+    },
+    {
+        "question": "Which planet is often referred to as the 'Red Planet'?",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the name of the spacecraft that successfully landed the first humans on the Moon?",
+        "options": ["Apollo 11", "Gemini 8", "Mercury-Redstone 3", "Vostok 1"],
+        "answer": "Apollo 11"
+    },
+    {
+        "question": "Who was the first woman to fly in space?",
+        "options": ["Valentina Tereshkova", "Sally Ride", "Mae Jemison", "Christa McAuliffe"],
+        "answer": "Valentina Tereshkova"
+    },
+    {
+        "question": "What is the name of the spacecraft that made the first successful landing on the Moon in 1966?",
+        "options": ["Apollo 11", "Surveyor 1", "Luna 2", "Viking 1"],
+        "answer": "Surveyor 1"
+    },
+    {
+        "question": "Which planet is known as the 'Blue Planet'?",
+        "options": ["Mars", "Earth", "Neptune", "Uranus"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the name of the most famous comet, which last appeared in the inner solar system in 1986?",
+        "options": ["Halley's Comet", "Hale-Bopp", "Comet Hyakutake", "Comet Shoemaker-Levy 9"],
+        "answer": "Halley's Comet"
+    },
+    {
+        "question": "Who was the first American to orbit the Earth?",
+        "options": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Alan Shepard"],
+        "answer": "John Glenn"
+    },
+    {
+        "question": "What is the name of the first manned mission to land on the Moon?",
+        "options": ["Apollo 11", "Gemini 8", "Mercury-Redstone 3", "Vostok 1"],
+        "answer": "Apollo 11"
+    },
+    {
+        "question": "Which planet is known as the 'Evening Star'?",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the name of the mission that successfully landed the first humans on the Moon?",
+        "options": ["Apollo 11", "Gemini 8", "Mercury-Redstone 3", "Vostok 1"],
+        "answer": "Apollo 11"
+    },
+    {
+        "question": "Who was the first woman to travel to space twice?",
+        "options": ["Svetlana Savitskaya", "Valentina Tereshkova", "Sally Ride", "Mae Jemison"],
+        "answer": "Svetlana Savitskaya"
+    },
+    {
+        "question": "What is the name of the most distant spacecraft from Earth?",
+        "options": ["Voyager 1", "Pioneer 10", "New Horizons", "Voyager 2"],
+        "answer": "Voyager 1"
+    }
+]
+
