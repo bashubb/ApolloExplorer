@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct LearnView: View {
     @State private var isListView = false
     
     let astronauts: [String: Astronaut] = Bundle.main.decode("astronauts.json")
@@ -46,7 +46,7 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    LearnView()
 }
 
 

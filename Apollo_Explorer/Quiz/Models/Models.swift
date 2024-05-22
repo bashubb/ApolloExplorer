@@ -47,13 +47,13 @@ struct Test: Decodable, Identifiable {
 }
 
 
-struct Question: Decodable, Identifiable {
-    
-    var id: String = ""
-    var content: String = ""
-    var correctIndex: Int = 0
-    var answers: [String] = [String]()
-}
+//struct Question: Decodable, Identifiable {
+//    
+//    var id: String = ""
+//    var content: String = ""
+//    var correctIndex: Int = 0
+//    var answers: [String] = [String]()
+//}
 
 
 class User {

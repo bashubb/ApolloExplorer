@@ -7,8 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5750BE02BFE4B7D00B8605B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5750BDF2BFE4B7D00B8605B /* ContentView.swift */; };
+		B5750BE22BFE4CB800B8605B /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5750BE12BFE4CB800B8605B /* QuizView.swift */; };
+		B5750BE42BFE4DCB00B8605B /* QuizView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5750BE32BFE4DCB00B8605B /* QuizView-ViewModel.swift */; };
+		B5750BE62BFE5D2C00B8605B /* CustomTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5750BE52BFE5D2C00B8605B /* CustomTypes.swift */; };
+		B5750BEA2BFE60C700B8605B /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5750BE92BFE60C700B8605B /* QuestionView.swift */; };
+		B5750BEC2BFE662500B8605B /* QuestionView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5750BEB2BFE662500B8605B /* QuestionView-ViewModel.swift */; };
+		B5750BEE2BFE689800B8605B /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5750BED2BFE689800B8605B /* Question.swift */; };
+		B5750BEF2BFE787E00B8605B /* quiz.json in Resources */ = {isa = PBXBuildFile; fileRef = B5FA120F2BC4073500A26C56 /* quiz.json */; };
 		B57FBE722AD1C38300D5F38F /* ApolloExplorer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE712AD1C38300D5F38F /* ApolloExplorer.swift */; };
-		B57FBE742AD1C38300D5F38F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE732AD1C38300D5F38F /* ContentView.swift */; };
+		B57FBE742AD1C38300D5F38F /* LearnView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE732AD1C38300D5F38F /* LearnView.swift */; };
 		B57FBE762AD1C38500D5F38F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B57FBE752AD1C38500D5F38F /* Assets.xcassets */; };
 		B57FBE792AD1C38500D5F38F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B57FBE782AD1C38500D5F38F /* Preview Assets.xcassets */; };
 		B57FBE812AD1C44400D5F38F /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = B57FBE7F2AD1C44400D5F38F /* missions.json */; };
@@ -19,16 +27,22 @@
 		B57FBE8A2AD2AB9E00D5F38F /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE892AD2AB9E00D5F38F /* Color-Theme.swift */; };
 		B57FBE8C2AD2B3C000D5F38F /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE8B2AD2B3C000D5F38F /* MissionView.swift */; };
 		B57FBE8E2AD2CA4A00D5F38F /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57FBE8D2AD2CA4A00D5F38F /* AstronautView.swift */; };
-		B5FA12062BC4036B00A26C56 /* ContentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FA12052BC4036B00A26C56 /* ContentModel.swift */; };
 		B5FA12092BC403CD00A26C56 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FA12082BC403CD00A26C56 /* Models.swift */; };
 		B5FA120C2BC4042900A26C56 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FA120B2BC4042900A26C56 /* TestView.swift */; };
 		B5FA120E2BC4048F00A26C56 /* TestResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FA120D2BC4048F00A26C56 /* TestResultView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B57FBE6E2AD1C38300D5F38F /* MoonShot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoonShot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5750BDF2BFE4B7D00B8605B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B5750BE12BFE4CB800B8605B /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		B5750BE32BFE4DCB00B8605B /* QuizView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "QuizView-ViewModel.swift"; sourceTree = "<group>"; };
+		B5750BE52BFE5D2C00B8605B /* CustomTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTypes.swift; sourceTree = "<group>"; };
+		B5750BE92BFE60C700B8605B /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		B5750BEB2BFE662500B8605B /* QuestionView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "QuestionView-ViewModel.swift"; sourceTree = "<group>"; };
+		B5750BED2BFE689800B8605B /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		B57FBE6E2AD1C38300D5F38F /* ApolloExplorer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApolloExplorer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B57FBE712AD1C38300D5F38F /* ApolloExplorer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApolloExplorer.swift; sourceTree = "<group>"; };
-		B57FBE732AD1C38300D5F38F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B57FBE732AD1C38300D5F38F /* LearnView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnView.swift; sourceTree = "<group>"; };
 		B57FBE752AD1C38500D5F38F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B57FBE782AD1C38500D5F38F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B57FBE7F2AD1C44400D5F38F /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = missions.json; sourceTree = "<group>"; };
@@ -39,7 +53,6 @@
 		B57FBE892AD2AB9E00D5F38F /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		B57FBE8B2AD2B3C000D5F38F /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		B57FBE8D2AD2CA4A00D5F38F /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
-		B5FA12052BC4036B00A26C56 /* ContentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModel.swift; sourceTree = "<group>"; };
 		B5FA12082BC403CD00A26C56 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		B5FA120B2BC4042900A26C56 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 		B5FA120D2BC4048F00A26C56 /* TestResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestResultView.swift; sourceTree = "<group>"; };
@@ -57,10 +70,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B5750BDE2BFE4B4200B8605B /* Learn */ = {
+			isa = PBXGroup;
+			children = (
+				B5FA11FD2BC4013200A26C56 /* Models */,
+				B5FA11FC2BC4010F00A26C56 /* Views */,
+			);
+			path = Learn;
+			sourceTree = "<group>";
+		};
 		B57FBE652AD1C38300D5F38F = {
 			isa = PBXGroup;
 			children = (
-				B57FBE702AD1C38300D5F38F /* MoonShot */,
+				B57FBE702AD1C38300D5F38F /* Apollo_Explorer */,
 				B57FBE6F2AD1C38300D5F38F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -68,24 +90,24 @@
 		B57FBE6F2AD1C38300D5F38F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B57FBE6E2AD1C38300D5F38F /* MoonShot.app */,
+				B57FBE6E2AD1C38300D5F38F /* ApolloExplorer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B57FBE702AD1C38300D5F38F /* MoonShot */ = {
+		B57FBE702AD1C38300D5F38F /* Apollo_Explorer */ = {
 			isa = PBXGroup;
 			children = (
 				B57FBE712AD1C38300D5F38F /* ApolloExplorer.swift */,
-				B5FA11FC2BC4010F00A26C56 /* Views */,
-				B5FA11FD2BC4013200A26C56 /* Models */,
+				B5750BDF2BFE4B7D00B8605B /* ContentView.swift */,
+				B5750BDE2BFE4B4200B8605B /* Learn */,
+				B5FA12032BC401D200A26C56 /* Quiz */,
 				B5FA11FF2BC4015800A26C56 /* Resources */,
 				B5FA12012BC4017F00A26C56 /* Helpers */,
-				B5FA12032BC401D200A26C56 /* Quiz */,
 				B57FBE752AD1C38500D5F38F /* Assets.xcassets */,
 				B57FBE772AD1C38500D5F38F /* Preview Content */,
 			);
-			path = MoonShot;
+			path = Apollo_Explorer;
 			sourceTree = "<group>";
 		};
 		B57FBE772AD1C38500D5F38F /* Preview Content */ = {
@@ -99,9 +121,9 @@
 		B5FA11FC2BC4010F00A26C56 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				B57FBE732AD1C38300D5F38F /* LearnView.swift */,
 				B57FBE8B2AD2B3C000D5F38F /* MissionView.swift */,
 				B57FBE8D2AD2CA4A00D5F38F /* AstronautView.swift */,
-				B57FBE732AD1C38300D5F38F /* ContentView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -130,6 +152,7 @@
 			children = (
 				B57FBE852AD1C60D00D5F38F /* Bundle-Decodable.swift */,
 				B57FBE892AD2AB9E00D5F38F /* Color-Theme.swift */,
+				B5750BE52BFE5D2C00B8605B /* CustomTypes.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -147,7 +170,8 @@
 		B5FA12042BC4035800A26C56 /* ContentModels */ = {
 			isa = PBXGroup;
 			children = (
-				B5FA12052BC4036B00A26C56 /* ContentModel.swift */,
+				B5750BE32BFE4DCB00B8605B /* QuizView-ViewModel.swift */,
+				B5750BEB2BFE662500B8605B /* QuestionView-ViewModel.swift */,
 			);
 			path = ContentModels;
 			sourceTree = "<group>";
@@ -156,6 +180,7 @@
 			isa = PBXGroup;
 			children = (
 				B5FA12082BC403CD00A26C56 /* Models.swift */,
+				B5750BED2BFE689800B8605B /* Question.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -165,6 +190,8 @@
 			children = (
 				B5FA120B2BC4042900A26C56 /* TestView.swift */,
 				B5FA120D2BC4048F00A26C56 /* TestResultView.swift */,
+				B5750BE12BFE4CB800B8605B /* QuizView.swift */,
+				B5750BE92BFE60C700B8605B /* QuestionView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -172,9 +199,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B57FBE6D2AD1C38300D5F38F /* MoonShot */ = {
+		B57FBE6D2AD1C38300D5F38F /* ApolloExplorer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B57FBE7C2AD1C38500D5F38F /* Build configuration list for PBXNativeTarget "MoonShot" */;
+			buildConfigurationList = B57FBE7C2AD1C38500D5F38F /* Build configuration list for PBXNativeTarget "ApolloExplorer" */;
 			buildPhases = (
 				B57FBE6A2AD1C38300D5F38F /* Sources */,
 				B57FBE6B2AD1C38300D5F38F /* Frameworks */,
@@ -184,9 +211,9 @@
 			);
 			dependencies = (
 			);
-			name = MoonShot;
+			name = ApolloExplorer;
 			productName = MoonShot;
-			productReference = B57FBE6E2AD1C38300D5F38F /* MoonShot.app */;
+			productReference = B57FBE6E2AD1C38300D5F38F /* ApolloExplorer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +231,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B57FBE692AD1C38300D5F38F /* Build configuration list for PBXProject "MoonShot" */;
+			buildConfigurationList = B57FBE692AD1C38300D5F38F /* Build configuration list for PBXProject "ApolloExplorer" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -217,7 +244,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B57FBE6D2AD1C38300D5F38F /* MoonShot */,
+				B57FBE6D2AD1C38300D5F38F /* ApolloExplorer */,
 			);
 		};
 /* End PBXProject section */
@@ -228,6 +255,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B57FBE792AD1C38500D5F38F /* Preview Assets.xcassets in Resources */,
+				B5750BEF2BFE787E00B8605B /* quiz.json in Resources */,
 				B57FBE812AD1C44400D5F38F /* missions.json in Resources */,
 				B57FBE762AD1C38500D5F38F /* Assets.xcassets in Resources */,
 				B57FBE822AD1C44400D5F38F /* astronauts.json in Resources */,
@@ -241,17 +269,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5750BEA2BFE60C700B8605B /* QuestionView.swift in Sources */,
 				B57FBE8C2AD2B3C000D5F38F /* MissionView.swift in Sources */,
 				B57FBE842AD1C52B00D5F38F /* Astronaut.swift in Sources */,
+				B5750BEE2BFE689800B8605B /* Question.swift in Sources */,
 				B5FA120C2BC4042900A26C56 /* TestView.swift in Sources */,
 				B57FBE8E2AD2CA4A00D5F38F /* AstronautView.swift in Sources */,
 				B57FBE8A2AD2AB9E00D5F38F /* Color-Theme.swift in Sources */,
 				B5FA120E2BC4048F00A26C56 /* TestResultView.swift in Sources */,
-				B57FBE742AD1C38300D5F38F /* ContentView.swift in Sources */,
+				B5750BE62BFE5D2C00B8605B /* CustomTypes.swift in Sources */,
+				B57FBE742AD1C38300D5F38F /* LearnView.swift in Sources */,
 				B57FBE722AD1C38300D5F38F /* ApolloExplorer.swift in Sources */,
 				B57FBE882AD2A12B00D5F38F /* Mission.swift in Sources */,
+				B5750BE42BFE4DCB00B8605B /* QuizView-ViewModel.swift in Sources */,
 				B57FBE862AD1C60D00D5F38F /* Bundle-Decodable.swift in Sources */,
-				B5FA12062BC4036B00A26C56 /* ContentModel.swift in Sources */,
+				B5750BEC2BFE662500B8605B /* QuestionView-ViewModel.swift in Sources */,
+				B5750BE02BFE4B7D00B8605B /* ContentView.swift in Sources */,
+				B5750BE22BFE4CB800B8605B /* QuizView.swift in Sources */,
 				B5FA12092BC403CD00A26C56 /* Models.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -385,7 +419,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MoonShot/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Apollo_Explorer/Preview Content\"";
 				DEVELOPMENT_TEAM = F43F5V3HNZ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -394,7 +428,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -415,7 +449,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MoonShot/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Apollo_Explorer/Preview Content\"";
 				DEVELOPMENT_TEAM = F43F5V3HNZ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -424,7 +458,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -441,7 +475,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B57FBE692AD1C38300D5F38F /* Build configuration list for PBXProject "MoonShot" */ = {
+		B57FBE692AD1C38300D5F38F /* Build configuration list for PBXProject "ApolloExplorer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B57FBE7A2AD1C38500D5F38F /* Debug */,
@@ -450,7 +484,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B57FBE7C2AD1C38500D5F38F /* Build configuration list for PBXNativeTarget "MoonShot" */ = {
+		B57FBE7C2AD1C38500D5F38F /* Build configuration list for PBXNativeTarget "ApolloExplorer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B57FBE7D2AD1C38500D5F38F /* Debug */,
