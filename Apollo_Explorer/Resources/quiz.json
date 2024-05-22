@@ -1,73 +1,1000 @@
 [
     {
-        "id": 7,
-        "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
-        "options": ["Sputnik 1", "Vostok 1", "Vanguard 1", "Explorer 1"],
-        "answer": "Sputnik 1",
-        "difficulty": "Easy"
-    },
-    {
-        "id": 27,
-        "question": "What is the name of the first artificial satellite launched into space?",
-        "options": ["Sputnik 1", "Explorer 1", "Vostok 1", "Vanguard 1"],
-        "answer": "Sputnik 1",
-        "difficulty": "Easy"
-    },
-    {
-        "id": 10,
-        "question": "Which space probe was the first to land on Mars?",
-        "options": ["Viking 1", "Curiosity", "Spirit", "Opportunity"],
-        "answer": "Viking 1",
+        "id": 1,
+        "question": "Which mission was the first crewed flight of the Apollo program that tragically ended in a cabin fire?",
+        "options": ["Apollo 1", "Apollo 7", "Apollo 8", "Apollo 9"],
+        "answer": "Apollo 1",
         "difficulty": "Medium"
     },
     {
+        "id": 2,
+        "question": "Who was the Commander of Apollo 7, the first crewed Apollo mission to carry astronauts into space?",
+        "options": ["Schirra", "Borman", "McDivitt", "Grissom"],
+        "answer": "Schirra",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 3,
+        "question": "Which Apollo mission was the first to leave low Earth orbit, reach the Moon, orbit it, and return to Earth?",
+        "options": ["Apollo 8", "Apollo 10", "Apollo 11", "Apollo 12"],
+        "answer": "Apollo 8",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 4,
+        "question": "What was the primary objective of Apollo 9?",
+        "options": ["Test the Lunar Module in low Earth orbit", "Orbit the Moon", "Land on the Moon", "Conduct scientific experiments on the lunar surface"],
+        "answer": "Test the Lunar Module in low Earth orbit",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 5,
+        "question": "Which mission was known as the 'dress rehearsal' for the first Moon landing, testing all components and procedures just short of actually landing?",
+        "options": ["Apollo 10", "Apollo 11", "Apollo 12", "Apollo 13"],
+        "answer": "Apollo 10",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 6,
+        "question": "Who was the Lunar Module Pilot for Apollo 11, the mission that first landed humans on the Moon?",
+        "options": ["Buzz Aldrin", "Michael Collins", "Charles Duke", "John Young"],
+        "answer": "Buzz Aldrin",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 7,
+        "question": "Which mission was the second to land on the Moon, with astronauts spending over one day on the lunar surface?",
+        "options": ["Apollo 12", "Apollo 14", "Apollo 15", "Apollo 16"],
+        "answer": "Apollo 12",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 8,
+        "question": "Which Apollo mission had to abort its lunar landing due to an oxygen tank failure in the service module?",
+        "options": ["Apollo 13", "Apollo 12", "Apollo 14", "Apollo 15"],
+        "answer": "Apollo 13",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 9,
+        "question": "Who was the Commander of Apollo 14, the first mission to land in the lunar highlands?",
+        "options": ["Alan Shepard", "David Scott", "John Young", "Eugene Cernan"],
+        "answer": "Alan Shepard",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 10,
+        "question": "Which Apollo mission saw the first use of the Lunar Roving Vehicle on the Moon?",
+        "options": ["Apollo 15", "Apollo 16", "Apollo 17", "Apollo 14"],
+        "answer": "Apollo 15",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 11,
+        "question": "What was the final mission of NASA's Apollo program?",
+        "options": ["Apollo 17", "Apollo 16", "Apollo 15", "Apollo 14"],
+        "answer": "Apollo 17",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 12,
+        "question": "Who was the Command Module Pilot for Apollo 7?",
+        "options": ["Eisele", "Schweickart", "Collins", "Haise"],
+        "answer": "Eisele",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 13,
+        "question": "What was the name of the lunar module on Apollo 11?",
+        "options": ["Eagle", "Intrepid", "Challenger", "Falcon"],
+        "answer": "Eagle",
+        "difficulty": "Easy"
+    },
+    {
         "id": 14,
-        "question": "What is the name of the first artificial satellite to orbit the Moon?",
-        "options": ["Luna 1", "Ranger 1", "Luna 2", "Apollo 11"],
-        "answer": "Luna 2",
+        "question": "Who was the Command Module Pilot for Apollo 8?",
+        "options": ["Lovell", "Worden", "Swigert", "Young"],
+        "answer": "Lovell",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 15,
+        "question": "Which Apollo mission landed in the southeastern portion of the Ocean of Storms?",
+        "options": ["Apollo 12", "Apollo 14", "Apollo 16", "Apollo 17"],
+        "answer": "Apollo 12",
         "difficulty": "Medium"
     },
     {
         "id": 16,
-        "question": "Which spacecraft was the first to successfully land on Venus?",
-        "options": ["Venera 7", "Mariner 10", "Magellan", "Venus Express"],
-        "answer": "Venera 7",
+        "question": "Who replaced Ken Mattingly as the Command Module Pilot for Apollo 13?",
+        "options": ["Jack Swigert", "Fred Haise", "Jim Lovell", "John Young"],
+        "answer": "Jack Swigert",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 17,
+        "question": "What was the main objective of Apollo 15?",
+        "options": ["Conduct extended scientific exploration of the Moon using a Lunar Rover", "Test the Lunar Module in low Earth orbit", "Orbit the Moon", "Perform a dress rehearsal for the first Moon landing"],
+        "answer": "Conduct extended scientific exploration of the Moon using a Lunar Rover",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 18,
+        "question": "Who was the Commander of Apollo 16, the second mission to land in the lunar highlands?",
+        "options": ["John Young", "Alan Shepard", "David Scott", "Eugene Cernan"],
+        "answer": "John Young",
         "difficulty": "Medium"
+    },
+    {
+        "id": 19,
+        "question": "Which Apollo mission included a biological experiment containing five mice?",
+        "options": ["Apollo 17", "Apollo 16", "Apollo 15", "Apollo 14"],
+        "answer": "Apollo 17",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 20,
+        "question": "Who was the Lunar Module Pilot for Apollo 14?",
+        "options": ["Edgar Mitchell", "Alan Bean", "James Irwin", "Harrison Schmitt"],
+        "answer": "Edgar Mitchell",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 21,
+        "question": "Which Apollo mission was the first to land in the lunar highlands?",
+        "options": ["Apollo 14", "Apollo 15", "Apollo 16", "Apollo 17"],
+        "answer": "Apollo 14",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 22,
+        "question": "Who was the Command Module Pilot for Apollo 13?",
+        "options": ["Swigert", "Lovell", "Haise", "Mattingly"],
+        "answer": "Swigert",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 23,
+        "question": "What was the launch date of Apollo 11?",
+        "options": ["1969-07-16", "1969-05-18", "1969-11-14", "1969-03-03"],
+        "answer": "1969-07-16",
+        "difficulty": "Easy"
     },
     {
         "id": 24,
-        "question": "Who was the first living creature in space?",
-        "options": ["Laika (dog)", "Yuri Gagarin (human)", "Albert II (monkey)", "Ham (chimpanzee)"],
-        "answer": "Laika (dog)",
+        "question": "Who was the Lunar Module Pilot for Apollo 12?",
+        "options": ["Alan Bean", "Edgar Mitchell", "James Irwin", "Charles Duke"],
+        "answer": "Alan Bean",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 25,
+        "question": "Which Apollo mission was the first human spaceflight from the Kennedy Space Center?",
+        "options": ["Apollo 8", "Apollo 10", "Apollo 11", "Apollo 12"],
+        "answer": "Apollo 8",
         "difficulty": "Medium"
     },
     {
-        "id": 1,
-        "question": "Who was the first human to orbit the Earth?",
-        "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
-        "answer": "Yuri Gagarin",
+        "id": 26,
+        "question": "Who was the Command Module Pilot for Apollo 15?",
+        "options": ["Worden", "Mattingly", "Swigert", "Haise"],
+        "answer": "Worden",
         "difficulty": "Hard"
     },
     {
-        "id": 15,
-        "question": "Who was the first human to set foot on the Moon?",
-        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Alan Shepard"],
-        "answer": "Neil Armstrong",
-        "difficulty": "Hard"
-    },
-    {
-        "id": 8,
-        "question": "Which spacecraft holds the record for the farthest distance traveled from Earth by humans?",
-        "options": ["Apollo 11", "Voyager 1", "Vostok 1", "SpaceX Dragon"],
-        "answer": "Voyager 1",
-        "difficulty": "Hard"
+        "id": 27,
+        "question": "Who was the Lunar Module Pilot for Apollo 16?",
+        "options": ["Charles Duke", "Edgar Mitchell", "James Irwin", "Alan Bean"],
+        "answer": "Charles Duke",
+        "difficulty": "Medium"
     },
     {
         "id": 28,
-        "question": "What was the name of the first successful manned mission to the Moon?",
-        "options": ["Apollo 11", "Apollo 8", "Apollo 13", "Apollo 15"],
-        "answer": "Apollo 11",
+        "question": "Which mission had the first crew to witness and photograph an Earthrise?",
+        "options": ["Apollo 8", "Apollo 10", "Apollo 11", "Apollo 12"],
+        "answer": "Apollo 8",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 29,
+        "question": "What was the primary objective of Apollo 10?",
+        "options": ["Perform a dress rehearsal for the first Moon landing", "Test the Lunar Module in low Earth orbit", "Orbit the Moon", "Conduct scientific experiments on the lunar surface"],
+        "answer": "Perform a dress rehearsal for the first Moon landing",
         "difficulty": "Hard"
-    }
-]
-
+    },
+    {
+        "id": 30,
+        "question": "Who was the Command Module Pilot for Apollo 16?",
+        "options": ["Mattingly", "Worden", "Swigert", "Collins"],
+        "answer": "Mattingly",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 31,
+        "question": "What was the name of the command module on Apollo 11?",
+        "options": ["Columbia", "Odyssey", "Yankee Clipper", "Endeavour"],
+        "answer": "Columbia",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 32,
+        "question": "Which Apollo mission included the first use of the Lunar Roving Vehicle?",
+        "options": ["Apollo 15", "Apollo 16", "Apollo 17", "Apollo 14"],
+        "answer": "Apollo 15",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 33,
+        "question": "Who was the Lunar Module Pilot for Apollo 11?",
+        "options": ["Buzz Aldrin", "Michael Collins", "Charles Duke", "John Young"],
+        "answer": "Buzz Aldrin",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 34,
+        "question": "What was the name of the lunar module on Apollo 12?",
+        "options": ["Intrepid", "Eagle", "Challenger", "Falcon"],
+        "answer": "Intrepid",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 35,
+        "question": "Who was the Command Module Pilot for Apollo 14?",
+        "options": ["Roosa", "Swigert", "Mattingly", "Worden"],
+        "answer": "Roosa",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 36,
+        "question": "Which Apollo mission was the first to land in the lunar highlands?",
+        "options": ["Apollo 14", "Apollo 15", "Apollo 16", "Apollo 17"],
+        "answer": "Apollo 14",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 37,
+        "question": "Who was the Lunar Module Pilot for Apollo 15?",
+        "options": ["James Irwin", "Charles Duke", "Harrison Schmitt", "Edgar Mitchell"],
+        "answer": "James Irwin",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 38,
+        "question": "What was the primary objective of Apollo 9?",
+        "options": ["Test the Lunar Module in low Earth orbit", "Orbit the Moon", "Land on the Moon", "Perform a dress rehearsal for the first Moon landing"],
+        "answer": "Test the Lunar Module in low Earth orbit",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 39,
+        "question": "Who was the Commander of Apollo 17, the last mission of the Apollo program?",
+        "options": ["Eugene Cernan", "John Young", "David Scott", "Alan Shepard"],
+        "answer": "Eugene Cernan",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 40,
+        "question": "Who was the Lunar Module Pilot for Apollo 17?",
+        "options": ["Harrison Schmitt", "James Irwin", "Charles Duke", "Edgar Mitchell"],
+        "answer": "Harrison Schmitt",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 41,
+        "question": "What was the main objective of Apollo 11?",
+        "options": ["Perform the first manned lunar landing", "Test the Lunar Module in low Earth orbit", "Orbit the Moon", "Conduct scientific experiments on the lunar surface"],
+        "answer": "Perform the first manned lunar landing",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 42,
+        "question": "Which Apollo mission was the first to broadcast live color TV from the Moon?",
+        "options": ["Apollo 12", "Apollo 14", "Apollo 15", "Apollo 16"],
+        "answer": "Apollo 12",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 43,
+        "question": "Who was the Command Module Pilot for Apollo 11?",
+        "options": ["Michael Collins", "Buzz Aldrin", "Charles Duke", "James Lovell"],
+        "answer": "Michael Collins",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 44,
+        "question": "Which Apollo mission was the first to use the Lunar Roving Vehicle on the Moon?",
+        "options": ["Apollo 15", "Apollo 16", "Apollo 17", "Apollo 14"],
+        "answer": "Apollo 15",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 45,
+        "question": "What was the name of the lunar module on Apollo 16?",
+        "options": ["Orion", "Falcon", "Antares", "Challenger"],
+        "answer": "Orion",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 46,
+        "question": "Who was the Lunar Module Pilot for Apollo 12?",
+        "options": ["Alan Bean", "Edgar Mitchell", "James Irwin", "Harrison Schmitt"],
+        "answer": "Alan Bean",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 47,
+        "question": "Who was the Command Module Pilot for Apollo 10?",
+        "options": ["Stafford", "Schweickart", "Young", "Cernan"],
+        "answer": "Young",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 48,
+        "question": "What was the launch date of Apollo 11?",
+        "options": ["1969-07-16", "1969-05-18", "1969-11-14", "1969-03-03"],
+        "answer": "1969-07-16",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 49,
+        "question": "Which Apollo mission was the first to land on the Moon?",
+        "options": ["Apollo 11", "Apollo 10", "Apollo 12", "Apollo 13"],
+        "answer": "Apollo 11",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 50,
+        "question": "Who was the Lunar Module Pilot for Apollo 11?",
+        "options": ["Buzz Aldrin", "Michael Collins", "Charles Duke", "John Young"],
+        "answer": "Buzz Aldrin",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 51,
+        "question": "What was the primary objective of Apollo 13?",
+        "options": ["Land on the Moon", "Test the Lunar Module in low Earth orbit", "Perform a dress rehearsal for the first Moon landing", "Conduct extended scientific exploration of the Moon using a Lunar Rover"],
+        "answer": "Land on the Moon",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 52,
+        "question": "Who was the Command Module Pilot for Apollo 14?",
+        "options": ["Roosa", "Swigert", "Mattingly", "Worden"],
+        "answer": "Roosa",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 53,
+        "question": "Which Apollo mission included a biological experiment containing five mice?",
+        "options": ["Apollo 17", "Apollo 16", "Apollo 15", "Apollo 14"],
+        "answer": "Apollo 17",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 54,
+        "question": "What was the primary objective of Apollo 7?",
+        "options": ["Test the Command and Service Module in low Earth orbit", "Test the Lunar Module in low Earth orbit", "Orbit the Moon", "Perform a dress rehearsal for the first Moon landing"],
+        "answer": "Test the Command and Service Module in low Earth orbit",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 55,
+        "question": "Who was the Commander of Apollo 16?",
+        "options": ["John Young", "Alan Shepard", "David Scott", "Eugene Cernan"],
+        "answer": "John Young",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 56,
+        "question": "Which Apollo mission was the first to use the Lunar Roving Vehicle on the Moon?",
+        "options": ["Apollo 15", "Apollo 16", "Apollo 17", "Apollo 14"],
+        "answer": "Apollo 15",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 57,
+        "question": "What was the name of the command module on Apollo 17?",
+        "options": ["America", "Columbia", "Odyssey", "Endeavour"],
+        "answer": "America",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 58,
+        "question": "Which Apollo mission was the first to land on the Moon?",
+        "options": ["Apollo 11", "Apollo 12", "Apollo 10", "Apollo 13"],
+        "answer": "Apollo 11",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 59,
+        "question": "Who was the Commander of Apollo 11?",
+        "options": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "Charles Conrad"],
+        "answer": "Neil Armstrong",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 60,
+        "question": "What was the primary objective of Apollo 11?",
+        "options": ["Perform the first manned lunar landing", "Test the Lunar Module in low Earth orbit", "Orbit the Moon", "Conduct scientific experiments on the lunar surface"],
+        "answer": "Perform the first manned lunar landing",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 61,
+        "question": "Who was the Command Module Pilot for Apollo 12?",
+        "options": ["Gordon", "Worden", "Roosa", "Swigert"],
+        "answer": "Gordon",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 62,
+        "question": "Who was the Commander of Apollo 14?",
+        "options": ["Alan Shepard", "John Young", "David Scott", "Eugene Cernan"],
+        "answer": "Alan Shepard",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 63,
+        "question": "Which Apollo mission was the first to broadcast live color TV from the Moon?",
+        "options": ["Apollo 12", "Apollo 15", "Apollo 16", "Apollo 17"],
+        "answer": "Apollo 12",
+        "difficulty": "Medium"
+    },
+    
+    
+    
+    {
+        "id": 64,
+        "question": "Which astronaut was the first to orbit the Earth?",
+        "options": ["John H. Glenn Jr.", "Yuri Gagarin", "Alan B. Shepard Jr.", "Gherman Titov"],
+        "answer": "Yuri Gagarin",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 65,
+        "question": "Who was the commander of the Apollo 14 mission?",
+        "options": ["Alan B. Shepard Jr.", "Edgar D. Mitchell", "Stuart A. Roosa", "Charles M. Duke Jr."],
+        "answer": "Alan B. Shepard Jr.",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 66,
+        "question": "Which astronaut commanded the Gemini 12 mission?",
+        "options": ["James A. Lovell Jr.", "Buzz Aldrin", "John W. Young", "Michael Collins"],
+        "answer": "James A. Lovell Jr.",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 67,
+        "question": "Who was the first person to conduct a spacewalk?",
+        "options": ["Alexei Leonov", "Edward H. White II", "Yuri Gagarin", "John H. Glenn Jr."],
+        "answer": "Alexei Leonov",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 68,
+        "question": "Which astronaut commanded the Apollo 11 mission?",
+        "options": ["Neil A. Armstrong", "Buzz Aldrin", "Michael Collins", "James A. Lovell Jr."],
+        "answer": "Neil A. Armstrong",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 69,
+        "question": "Who was the Lunar Module Pilot for Apollo 12?",
+        "options": ["Alan L. Bean", "Charles Conrad, Jr.", "Richard F. Gordon, Jr.", "John W. Young"],
+        "answer": "Alan L. Bean",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 70,
+        "question": "Which astronaut was the first American to fly in space?",
+        "options": ["Alan B. Shepard Jr.", "John W. Young", "Gus Grissom", "Walter M. Schirra"],
+        "answer": "Alan B. Shepard Jr.",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 71,
+        "question": "Who was the Lunar Module Pilot on Apollo 13?",
+        "options": ["Fred W. Haise Jr.", "John L. Swigert, Jr.", "James A. Lovell Jr.", "Thomas K. Mattingly II"],
+        "answer": "Fred W. Haise Jr.",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 72,
+        "question": "Which astronaut commanded the Apollo 8 mission?",
+        "options": ["Frank F. Borman II", "James A. Lovell Jr.", "William A. Anders", "Michael Collins"],
+        "answer": "Frank F. Borman II",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 73,
+        "question": "Who was the commander of the Apollo 11 mission?",
+        "options": ["Neil A. Armstrong", "Buzz Aldrin", "Michael Collins", "James A. Lovell Jr."],
+        "answer": "Neil A. Armstrong",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 74,
+        "question": "Which astronaut was the first American to walk in space?",
+        "options": ["Edward H. White II", "Alan B. Shepard Jr.", "John H. Glenn Jr.", "Gus Grissom"],
+        "answer": "Edward H. White II",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 75,
+        "question": "Who was the first American astronaut to orbit the Earth?",
+        "options": ["John H. Glenn Jr.", "Alan B. Shepard Jr.", "Gus Grissom", "Scott Carpenter"],
+        "answer": "John H. Glenn Jr.",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 76,
+        "question": "Which astronaut was the first person to fly into space?",
+        "options": ["Yuri Gagarin", "Alan B. Shepard Jr.", "John H. Glenn Jr.", "Gus Grissom"],
+        "answer": "Yuri Gagarin",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 77,
+        "question": "Who was the commander of the Gemini 8 mission?",
+        "options": ["Neil A. Armstrong", "David R. Scott", "Buzz Aldrin", "James A. Lovell Jr."],
+        "answer": "Neil A. Armstrong",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 78,
+        "question": "Which astronaut commanded the Apollo 12 mission?",
+        "options": ["Charles Conrad, Jr.", "Alan L. Bean", "Richard F. Gordon, Jr.", "John W. Young"],
+        "answer": "Charles Conrad, Jr.",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 79,
+        "question": "Who was the first person to fly into space twice?",
+        "options": ["Gus Grissom", "John W. Young", "Alan B. Shepard Jr.", "James A. Lovell Jr."],
+        "answer": "Gus Grissom",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 80,
+        "question": "Which astronaut was the first to step onto the moon?",
+        "options": ["Neil A. Armstrong", "Buzz Aldrin", "Alan Bean", "Pete Conrad"],
+        "answer": "Neil A. Armstrong",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 81,
+        "question": "Who was the Lunar Module Pilot for Apollo 15?",
+        "options": ["David Scott", "Alfred Worden", "James Irwin", "Edgar Mitchell"],
+        "answer": "James Irwin",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 82,
+        "question": "Which astronaut became the first American to orbit the Earth multiple times?",
+        "options": ["John H. Glenn Jr.", "Scott Carpenter", "Wally Schirra", "Gordon Cooper"],
+        "answer": "John H. Glenn Jr.",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 83,
+        "question": "Who was the commander of Apollo 16?",
+        "options": ["John Young", "Charles Duke", "Thomas Mattingly", "James Irwin"],
+        "answer": "John Young",
+        "difficulty": "Medium"
+    },
+    
+    
+    
+    {
+        "id": 84,
+        "question": "Which astronaut was the last person to walk on the Moon?",
+        "options": ["Gene Cernan", "Harrison Schmitt", "Alan Shepard", "Pete Conrad"],
+        "answer": "Gene Cernan",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 85,
+        "question": "Who was the first female astronaut from the United States in space?",
+        "options": ["Sally Ride", "Valentina Tereshkova", "Mae Jemison", "Judith Resnik"],
+        "answer": "Sally Ride",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 86,
+        "question": "Who was the first American woman to perform a spacewalk?",
+        "options": ["Kathryn Sullivan", "Sally Ride", "Judith Resnik", "Eileen Collins"],
+        "answer": "Kathryn Sullivan",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 87,
+        "question": "Which was the first space shuttle to fly into space?",
+        "options": ["Columbia", "Challenger", "Discovery", "Atlantis"],
+        "answer": "Columbia",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 88,
+        "question": "Who was the first American woman to go into space twice?",
+        "options": ["Sally Ride", "Judith Resnik", "Eileen Collins", "Peggy Whitson"],
+        "answer": "Eileen Collins",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 89,
+        "question": "Which astronaut was the first to spend nearly a year in space on a single mission?",
+        "options": ["Scott Kelly", "Peggy Whitson", "Valery Polyakov", "Gennady Padalka"],
+        "answer": "Valery Polyakov",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 90,
+        "question": "Who was the first person to fly in space four times?",
+        "options": ["Gennady Padalka", "Yuri Gagarin", "Sergei Krikalev", "John Young"],
+        "answer": "John Young",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 91,
+        "question": "Which spacecraft carried the first humans to land on the Moon?",
+        "options": ["Apollo 11", "Apollo 12", "Apollo 13", "Apollo 14"],
+        "answer": "Apollo 11",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 92,
+        "question": "Who was the first person to fly in space five times?",
+        "options": ["Gennady Padalka", "Yuri Gagarin", "Sergei Krikalev", "John Young"],
+        "answer": "Gennady Padalka",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 93,
+        "question": "Which astronaut served as commander of the final Space Shuttle mission (STS-135)?",
+        "options": ["Chris Ferguson", "Mark Kelly", "Eileen Collins", "Chris Hadfield"],
+        "answer": "Chris Ferguson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 94,
+        "question": "Who was the first American woman to perform a spacewalk?",
+        "options": ["Peggy Whitson", "Eileen Collins", "Kathryn Sullivan", "Sally Ride"],
+        "answer": "Kathryn Sullivan",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 95,
+        "question": "Which spacecraft carried the first American to orbit the Earth?",
+        "options": ["Friendship 7", "Vostok 1", "Gemini 3", "Soyuz 11"],
+        "answer": "Friendship 7",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 96,
+        "question": "Who was the first person to fly in space six times?",
+        "options": ["Gennady Padalka", "Yuri Gagarin", "Sergei Krikalev", "John Young"],
+        "answer": "Gennady Padalka",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 97,
+        "question": "Which was the first country to send a human-made object to the Moon?",
+        "options": ["Soviet Union", "United States", "China", "India"],
+        "answer": "Soviet Union",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 98,
+        "question": "Who was the first woman to command the International Space Station (ISS)?",
+        "options": ["Peggy Whitson", "Sunita Williams", "Valentina Tereshkova", "Yelena Kondakova"],
+        "answer": "Peggy Whitson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 99,
+        "question": "Which spacecraft carried the first human to fly into space?",
+        "options": ["Vostok 1", "Sputnik 1", "Apollo 11", "Mercury-Redstone 3"],
+        "answer": "Vostok 1",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 100,
+        "question": "Who was the first woman to walk in space?",
+        "options": ["Valentina Tereshkova", "Svetlana Savitskaya", "Peggy Whitson", "Sally Ride"],
+        "answer": "Svetlana Savitskaya",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 101,
+        "question": "Which was the first rover to operate on Mars?",
+        "options": ["Sojourner", "Opportunity", "Spirit", "Curiosity"],
+        "answer": "Sojourner",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 102,
+        "question": "Who was the first astronaut to tweet from space?",
+        "options": ["Mike Massimino", "Buzz Aldrin", "Chris Hadfield", "Scott Kelly"],
+        "answer": "Mike Massimino",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 103,
+        "question": "Which spacecraft was the first to land humans on the Moon?",
+        "options": ["Apollo 11", "Luna 2", "Apollo 10", "Luna 9"],
+        "answer": "Apollo 11",
+        "difficulty": "Easy"
+    },
+    
+    
+    {
+        "id": 104,
+        "question": "Who was the first Canadian astronaut in space?",
+        "options": ["Marc Garneau", "Chris Hadfield", "Julie Payette", "Robert Thirsk"],
+        "answer": "Marc Garneau",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 105,
+        "question": "Which astronaut became the first to fly in space seven times?",
+        "options": ["Gennady Padalka", "Yuri Gagarin", "Sergei Krikalev", "John Young"],
+        "answer": "Gennady Padalka",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 106,
+        "question": "Who was the first American woman to travel into space, on the Space Shuttle Challenger?",
+        "options": ["Sally Ride", "Judith Resnik", "Eileen Collins", "Kathryn Sullivan"],
+        "answer": "Sally Ride",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 107,
+        "question": "Which was the first spacecraft to successfully land on Mars?",
+        "options": ["Viking 1", "Pathfinder", "Opportunity", "Spirit"],
+        "answer": "Viking 1",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 108,
+        "question": "Who was the first woman to receive the Nobel Prize in Physics?",
+        "options": ["Marie Curie", "Marie Tharp", "Rosalind Franklin", "Lise Meitner"],
+        "answer": "Marie Curie",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 109,
+        "question": "Which spacecraft was the first to land humans on the Moon?",
+        "options": ["Apollo 11", "Luna 2", "Apollo 10", "Luna 9"],
+        "answer": "Apollo 11",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 110,
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "options": ["Marie Curie", "Rosalind Franklin", "Lise Meitner", "Dorothy Crowfoot Hodgkin"],
+        "answer": "Marie Curie",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 111,
+        "question": "Which country was the first to launch an artificial satellite into space?",
+        "options": ["Soviet Union", "United States", "China", "India"],
+        "answer": "Soviet Union",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 112,
+        "question": "Who was the first woman to win the Fields Medal, often considered the 'Nobel Prize of Mathematics'?",
+        "options": ["Maryam Mirzakhani", "Emmy Noether", "Ada Lovelace", "Sofia Kovalevskaya"],
+        "answer": "Maryam Mirzakhani",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 113,
+        "question": "Who was the first woman to be awarded a PhD in computer science?",
+        "options": ["Sister Mary Kenneth Keller", "Grace Hopper", "Radia Perlman", "Barbara Liskov"],
+        "answer": "Sister Mary Kenneth Keller",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 114,
+        "question": "Which scientist developed the theory of relativity?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Stephen Hawking"],
+        "answer": "Albert Einstein",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 115,
+        "question": "Who was the first woman to win a Nobel Prize in Chemistry?",
+        "options": ["Marie Curie", "Dorothy Crowfoot Hodgkin", "Irène Joliot-Curie", "Ada Yonath"],
+        "answer": "Marie Curie",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 116,
+        "question": "Which scientist proposed the heliocentric model of the solar system?",
+        "options": ["Nicolaus Copernicus", "Johannes Kepler", "Galileo Galilei", "Isaac Newton"],
+        "answer": "Nicolaus Copernicus",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 117,
+        "question": "Who was the first woman to win a Nobel Prize in Physiology or Medicine?",
+        "options": ["Marie Curie", "Rita Levi-Montalcini", "Gertrude B. Elion", "Françoise Barré-Sinoussi"],
+        "answer": "Gerty Cori",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 118,
+        "question": "Which scientist discovered the structure of DNA?",
+        "options": ["James Watson and Francis Crick", "Rosalind Franklin", "Linus Pauling", "Barbara McClintock"],
+        "answer": "James Watson and Francis Crick",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 119,
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "options": ["Amelia Earhart", "Jacqueline Cochran", "Bessie Coleman", "Harriet Quimby"],
+        "answer": "Amelia Earhart",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 120,
+        "question": "Which scientist is known as the 'father of modern physics'?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Max Planck"],
+        "answer": "Albert Einstein",
+        "difficulty": "Easy"
+    },
+    
+    
+    {
+        "id": 121,
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Joseph Lister", "Louis Pasteur", "Edward Jenner"],
+        "answer": "Alexander Fleming",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 122,
+        "question": "Which scientist proposed the theory of evolution by natural selection?",
+        "options": ["Charles Darwin", "Gregor Mendel", "Alfred Russel Wallace", "Thomas Malthus"],
+        "answer": "Charles Darwin",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 123,
+        "question": "Who developed the first successful polio vaccine?",
+        "options": ["Jonas Salk", "Albert Sabin", "Edward Jenner", "Louis Pasteur"],
+        "answer": "Jonas Salk",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 124,
+        "question": "Which scientist first proposed the concept of black holes in space?",
+        "options": ["Albert Einstein", "Stephen Hawking", "Karl Schwarzschild", "Subrahmanyan Chandrasekhar"],
+        "answer": "Subrahmanyan Chandrasekhar",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 125,
+        "question": "Who is often credited with the discovery of radioactivity?",
+        "options": ["Marie Curie", "Albert Einstein", "Ernest Rutherford", "Pierre Curie"],
+        "answer": "Henri Becquerel",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 126,
+        "question": "Which scientist developed the first successful polio vaccine?",
+        "options": ["Jonas Salk", "Albert Sabin", "Edward Jenner", "Louis Pasteur"],
+        "answer": "Jonas Salk",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 127,
+        "question": "Who discovered the neutron?",
+        "options": ["James Chadwick", "Ernest Rutherford", "Niels Bohr", "J.J. Thomson"],
+        "answer": "James Chadwick",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 128,
+        "question": "Which scientist is known for his theory of electromagnetism?",
+        "options": ["James Clerk Maxwell", "Michael Faraday", "Nikola Tesla", "Thomas Edison"],
+        "answer": "James Clerk Maxwell",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 129,
+        "question": "Who developed the first successful oral contraceptive pill?",
+        "options": ["Carl Djerassi", "Gregory Pincus", "Margaret Sanger", "John Rock"],
+        "answer": "Carl Djerassi",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 130,
+        "question": "Who discovered the law of conservation of energy?",
+        "options": ["James Joule", "Isaac Newton", "Albert Einstein", "Michael Faraday"],
+        "answer": "James Joule",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 131,
+        "question": "Which scientist is known for his work on the theory of general relativity?",
+        "options": ["Albert Einstein", "Isaac Newton", "Stephen Hawking", "Galileo Galilei"],
+        "answer": "Albert Einstein",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 132,
+        "question": "Who discovered the double helix structure of DNA?",
+        "options": ["James Watson and Francis Crick", "Rosalind Franklin", "Linus Pauling", "Barbara McClintock"],
+        "answer": "James Watson and Francis Crick",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 133,
+        "question": "Which scientist developed the first successful smallpox vaccine?",
+        "options": ["Edward Jenner", "Louis Pasteur", "Jonas Salk", "Albert Sabin"],
+        "answer": "Edward Jenner",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 134,
+        "question": "Who proposed the Big Bang theory of the origin of the universe?",
+        "options": ["Georges Lemaître", "Edwin Hubble", "Stephen Hawking", "Albert Einstein"],
+        "answer": "Georges Lemaître",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 135,
+        "question": "Who discovered the process of pasteurization?",
+        "options": ["Louis Pasteur", "Antoine Lavoisier", "Joseph Lister", "Robert Koch"],
+        "answer": "Louis Pasteur",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 136,
+        "question": "Who developed the first successful rabies vaccine?",
+        "options": ["Louis Pasteur", "Edward Jenner", "Jonas Salk", "Albert Sabin"],
+        "answer": "Louis Pasteur",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 137,
+        "question": "Who discovered the first exoplanet orbiting a sun-like star?",
+        "options": ["Michel Mayor and Didier Queloz", "Sara Seager", "Geoffrey Marcy", "Paul Butler"],
+        "answer": "Michel Mayor and Didier Queloz",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 138,
+        "question": "Which scientist is known for his laws of planetary motion?",
+        "options": ["Johannes Kepler", "Nicolaus Copernicus", "Galileo Galilei", "Isaac Newton"],
+        "answer": "Johannes Kepler",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 139,
+        "question": "Who is often called the 'father of modern chemistry'?",
+        "options": ["Antoine Lavoisier", "Robert Boyle", "Dmitri Mendeleev", "John Dalton"],
+        "answer": "Antoine Lavoisier",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 140,
+        "question": "Who discovered the laws of motion and universal gravitation?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Nikola Tesla"],
+        "answer": "Isaac Newton",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 141,
+        "question": "Who discovered the first effective treatment for syphilis?",
+        "options": ["Paul Ehrlich", "Alexander Fleming", "Louis Pasteur", "Gerhard Domagk"],
+        "answer": "Paul Ehrlich",
+        "difficulty": "Medium"
+    },
+    
+        ]

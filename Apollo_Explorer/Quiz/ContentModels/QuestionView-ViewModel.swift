@@ -13,6 +13,7 @@ extension QuestionView {
         @Published var currentQuestion = 0
         @Published var showFinalAlert = false
         @Published var score = 0
+        @Published var progress:Float = 1.0
         
         var quizData: [Question] = Bundle.main.decode("quiz.json")
         
@@ -29,25 +30,23 @@ extension QuestionView {
             }
         }
         
-        // Buggy, needs some love
         func prepareQuestions(difficulty: String, choosenQustionNumber: Int) -> [Question] {
             var preparedQuestions = [Question]()
             var filtered = [Question]()
             if difficulty != "Mix" {
-                filtered = quizData.filter{ $0.difficulty == difficulty }
+                filtered = quizData.filter{ $0.difficulty == difficulty }.shuffled()
             } else {
-                filtered = quizData
+                filtered = quizData.shuffled()
             }
             
-            for _ in 0..<choosenQustionNumber {
-                let randomQuestion = filtered[Int.random(in: 0..<filtered.count)]
-                preparedQuestions.append(randomQuestion)
+            for i in 0..<choosenQustionNumber {
+                preparedQuestions.append(filtered[i])
             }
             return preparedQuestions
         }
     
-        func getProgress() -> Float {
-            Float(currentQuestion + 1) / Float(questions.count)
+        func getProgress() {
+            progress = 1 - Float(currentQuestion + 1) / Float(questions.count)
         }
         
         
@@ -62,6 +61,7 @@ extension QuestionView {
         func resetTheGame() {
             currentQuestion = 0
             score = 0
+            progress = 1.0
         }
     }
 

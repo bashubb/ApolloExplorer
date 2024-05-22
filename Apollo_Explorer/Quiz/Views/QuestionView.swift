@@ -18,16 +18,19 @@ struct QuestionView: View {
         ZStack {
             Color.darkBackground.ignoresSafeArea()
             VStack(spacing: 30) {
+                ProgressView(value: vm.progress, total: 1.0)
                 questionText
+                    .layoutPriority(1)
                 
                 VStack {
                     questionList
+                        .transition(.asymmetric(insertion: .slide, removal: .scale))
                 }
-                
             }
             .animation(.default, value: vm.currentQuestion)
             .padding()
         }
+        .onAppear(perform: vm.getProgress)
         .toolbar {
             ToolbarItem(placement: .topBarTrailing) {
                 Text("Score: \(vm.score)")
@@ -35,6 +38,14 @@ struct QuestionView: View {
                     .foregroundStyle(.white)
             }
         }
+        .alert("End of the game", isPresented: $vm.showFinalAlert) {
+            Button("Play Again") {
+                vm.resetTheGame()
+            }
+        } message: {
+            Text("You've got \(vm.score) / \(vm.questions.count) points! ")
+        }
+
     }
     
     init(choosenQustionNumber: Int, difficulty: String) {
@@ -50,6 +61,7 @@ struct QuestionView: View {
     var questionText: some View {
         RoundedRectangle(cornerRadius: 12)
             .fill(.ultraThinMaterial)
+            .frame(minHeight: 100,maxHeight: 150)
             .padding(2)
             .overlay {
                 Text(vm.questions[vm.currentQuestion].question)
@@ -73,11 +85,12 @@ struct QuestionView: View {
                     vm.nextQuestion()
                     userAnswered = false
                 }
+                vm.getProgress()
                 
             } label: {
                 RoundedRectangle(cornerRadius: 12)
                     .fill(getButtonColor(option))
-                    .frame(height: 90)
+                    .frame(minHeight: 60, maxHeight: 90)
                     .padding(2)
                     .overlay {
                         Text(option)
@@ -85,7 +98,6 @@ struct QuestionView: View {
                             .foregroundStyle(.white)
                     }
             }
-            .transition(.asymmetric(insertion: .slide, removal: .scale))
         }
     }
     
@@ -96,6 +108,8 @@ struct QuestionView: View {
             } else {
                 Color.red
             }
+        } else if userAnswered && option != optionTapped && option == vm.questions[vm.currentQuestion].answer{
+            Color.green
         } else {
             Color.lightBackground
         }

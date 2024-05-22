@@ -26,7 +26,7 @@ struct QuizView: View {
                     .padding(.vertical)
                     Picker("Choose difficulty", selection: $vm.choosenDifficulty) {
                         ForEach(QuestionDifficulty.allCases, id: \.self) { difficulty in
-                            Text(difficulty.rawValue).tag(difficulty.self)
+                            Text(difficulty.rawValue).tag(difficulty.rawValue)
                         }
                     }
                     .listRowBackground(Color.lightBackground)
