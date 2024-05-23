@@ -1,45 +1,54 @@
-<img src="https://github.com/bashubb/ApolloExplorer/blob/main/Under%20Construction.png"/>
 
+<img src="https://github.com/bashubb/ApolloExplorer/blob/main/Apollo_Explporer_badge.png" width="75%">
 
-<img src="https://github.com/bashubb/ApolloExplorer/blob/main/ApolloExplorerIcon.png" width="20%">
+ApolloExplorer
+==============
 
-# ApolloExplorer 
+Welcome to **ApolloExplorer**, your comprehensive guide to the Apollo program! Explore the fascinating history of humanity's journey to the Moon, from Apollo 11 to Apollo 17. Discover mission details, meet astronauts, and engage with interactive content to deepen your understanding.
 
-Welcome to ApolloExplorer, your ultimate guide to the Apollo program! Dive into the captivating history of humanity's journey to the Moon, from Apollo 11 to Apollo 17.
-
-## Features 🌟
+Features 🚀
+-----------
 
 ### Mission Exploration 🛰️
 
--   Get the scoop on each Apollo mission, from launch dates to mission objectives.
--   Check out cool images and fun facts about the missions and why they're such a big deal.
+-   **Detailed Mission Information**: Learn about launch dates, objectives, and mission outcomes.
+-   **Rich Visual Content**: Enjoy high-quality images and interesting facts about each mission.
 
-### Astronaut Profiles 👨‍🚀
+### Astronaut Profiles 
 
--   Meet the brave souls who ventured into space.
--   Read up on each astronaut's background, contributions to the Apollo program, and cool achievements.
+-   **Meet the Astronauts**: Explore biographies of the brave individuals who ventured into space.
+-   **Learn Their Stories**: Discover their backgrounds, contributions, and achievements.
 
-### Interactive Content 🎮
+### Interactive Content 
 
--   Jump into the Apollo experience with quizzes and challenges.
--   Test your knowledge and challenge your friends to beat your score.
+-   **Quizzes and Challenges**: Test your knowledge with fun quizzes and challenges related to the Apollo missions.
 
-## Technologies Used 💻
+Technologies Used 
+--------------------
 
--   SwiftUI: Makes our app look sleek and modern.
--   Firebase: Handles user stuff and keeps track of quiz scores.
--   JSON: Helps us organize mission and astronaut data.
+SwiftUI powers our sleek and modern user interface, while JSON parsing organizes mission and astronaut data for easy access.
 
-## Credits 🙌
+Credits 🙌
+----------
 
--   Big shoutout to Wikipedia for the mission and astronaut descriptions under CC-BY-SA license.
--   And of course, NASA for being awesome and providing all the juicy details about the Apollo missions and astronauts.
+-   **Wikipedia**: Mission and astronaut descriptions are sourced under the CC-BY-SA license.
+-   **NASA**: Thanks for providing detailed information and resources about the Apollo missions and astronauts.
 
-## Availability 📲
+Coming Soon 🚀
+--------------
 
-ApolloExplorer is getting ready to blast off on the App Store soon!
+### Firebase User Logging 🔒
+
+-   **Secure User Authentication**: Log in securely and track your progress with Firebase.
+-   **Save Your Scores**: Monitor your quiz scores and achievements over time.
+
+### App Store Release 📲
+
+-   **Launch Imminent**: ApolloExplorer is preparing for its debut on the App Store.
+-   **Improved Interface**: Stay tuned for a rebuilt and improved user interface.
 
 
-## Screenshots 📸
+Screenshots 📸
+--------------
 
-Under construction
+<img src="https://github.com/bashubb/ApolloExplorer/blob/main/ApolloExplorer1.jpeg" width="40%"><img src="https://github.com/bashubb/ApolloExplorer/blob/main/ApolloExplorer2.jpeg" width="40%"><img src="https://github.com/bashubb/ApolloExplorer/blob/main/ApolloExplorer3.jpeg" width="40%">
